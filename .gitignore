@@ -2,7 +2,6 @@
 *.swp
 .project
 .idea/
-.vscode/
 npm-debug.log
 .jshintrc
 .vs/
@@ -16,3 +15,7 @@ test/e2e/chromium
 test/e2e/output-screenshots
 
 **/node_modules
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
